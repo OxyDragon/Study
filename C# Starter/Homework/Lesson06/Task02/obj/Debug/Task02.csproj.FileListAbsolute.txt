@@ -1,0 +1,5 @@
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task02\bin\Debug\Task02.exe.config
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task02\bin\Debug\Task02.exe
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task02\bin\Debug\Task02.pdb
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task02\obj\Debug\Task02.exe
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task02\obj\Debug\Task02.pdb

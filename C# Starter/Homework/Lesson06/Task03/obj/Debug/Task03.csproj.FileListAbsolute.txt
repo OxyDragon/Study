@@ -1,0 +1,6 @@
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\bin\Debug\Task03.exe.config
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\bin\Debug\Task03.exe
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\bin\Debug\Task03.pdb
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\obj\Debug\Task03.csprojAssemblyReference.cache
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\obj\Debug\Task03.exe
+C:\Users\eugen\OneDrive\Рабочий стол\Study\C# Starter\Homework\Lesson06\Task03\obj\Debug\Task03.pdb
